@@ -5,3 +5,4 @@
 * Which cloud provider should you choose (5 min) https://www.youtube.com/watch?v=t7iw97EKt6E
 * AWS Educate
   * Create account https://www.awseducate.com/registration/s/registration-detail?language=en_US&promocode=EducateLP
+  * Create AWS builder account https://www.awseducate.com/student/services/auth/sso/gandalf
