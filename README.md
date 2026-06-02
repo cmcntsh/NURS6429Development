@@ -11,3 +11,6 @@
   * Introduction to Cloud 101 https://awseducate.instructure.com/courses/891
   * Getting Started with Storage https://awseducate.instructure.com/courses/908
 * AWS Skill Builder (certification) https://skillbuilder.aws/category/getstarted
+  * Introduction to AWS Certification
+  * AWS Compute Serices Overview
+  * AWS Cloud Practitioner Essentials
