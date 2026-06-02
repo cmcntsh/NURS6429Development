@@ -11,6 +11,6 @@
   * Introduction to Cloud 101 https://awseducate.instructure.com/courses/891
   * Getting Started with Storage https://awseducate.instructure.com/courses/908
 * AWS Skill Builder (certification) https://skillbuilder.aws/category/getstarted
-  * Introduction to AWS Certification
-  * AWS Compute Serices Overview
-  * AWS Cloud Practitioner Essentials
+  * Introduction to AWS Certification (12 minutes)
+  * AWS Compute Serices Overview (40 minutes)
+  * AWS Cloud Practitioner Essentials (13 hours)
