@@ -10,3 +10,4 @@
   * Introduction to the AWS Management Console https://awseducate.instructure.com/courses/909
   * Introduction to Cloud 101 https://awseducate.instructure.com/courses/891
   * Getting Started with Storage https://awseducate.instructure.com/courses/908
+* AWS Skill Builder (certification) https://skillbuilder.aws/category/getstarted
