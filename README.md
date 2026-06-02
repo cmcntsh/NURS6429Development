@@ -7,3 +7,6 @@
   * Create account https://www.awseducate.com/registration/s/registration-detail?language=en_US&promocode=EducateLP
   * Create AWS builder account https://www.awseducate.com/student/services/auth/sso/gandalf
   * AWS Educate main page (log in with AWS Builder) https://www.awseducate.com/student/s/content
+  * Introduction to the AWS Management Console https://awseducate.instructure.com/courses/909
+  * Introduction to Cloud 101 https://awseducate.instructure.com/courses/891
+  * 
